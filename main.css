@@ -1,0 +1,152 @@
+.canchaFutbol{
+	width: 1000px;
+	height: 550px;
+	margin: 0 auto;
+	position: relative;
+	background-color: #8cb27c;
+}
+.cancha{
+	width: 940px;
+	height: 500px;
+	border: 3px solid #fefefe;
+	background-color: #8cb27c; 
+	position: absolute;
+	left: 30px;
+	bottom: 25px;
+}
+.centro{
+	width: 120px;
+     height: 120px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border-style: solid;
+     border-color: #fefefe;
+     background: #8cb27c;
+    position: absolute;
+	left: 440px;
+	bottom: 215px;
+}.divisoria{
+	width: 3px;
+	height: 505px;
+	background-color: #fefefe; 
+	position: absolute;
+	left: 500px;
+	bottom: 25px;
+}
+.area-grande-derecha{
+	width: 150px;
+	height: 320px;
+	border: 3px solid #fefefe;
+	background-color: #8cb27c; 
+	position: absolute;
+	left: 820px;
+	bottom: 115px;
+}
+.area-grande-izquierda{
+	width: 150px;
+	height: 320px;
+	border: 3px solid #fefefe;
+	background-color: #8cb27c; 
+	position: absolute;
+	left: 30px;
+	bottom: 115px;
+}
+.area-chica-derecha{
+	width: 80px;
+	height: 150px;
+	border: 3px solid #fefefe;
+	background-color: #8cb27c; 
+	position: absolute;
+	left: 890px;
+	bottom: 200px;
+}
+.area-chica-izquierda{
+	width: 80px;
+	height: 150px;
+	border: 3px solid #fefefe;
+	background-color: #8cb27c; 
+	position: absolute;
+	left: 30px;
+	bottom: 200px;
+}
+.semicirculo-izquierda{
+	width: 50px; 
+     height: 120px; 
+     border: 3px solid #fefefe; 
+     background: #8cb27c;
+     -moz-border-radius: 0 100px 100px 0;
+     -webkit-border-radius: 0 100px 100px 0;
+     border-radius: 0 100px 100px 0;
+    position: absolute;
+	left: 170px;
+	bottom: 215px;
+}
+.semicirculo-derecha{
+	width: 50px; 
+     height: 120px; 
+     border: 3px solid #fefefe; 
+     background: #8cb27c;
+     -moz-border-radius: 100px 0 0 100px;
+     -webkit-border-radius: 100px 0 0 100px;
+     border-radius: 100px 0 0 100px;
+    position: absolute;
+	left: 780px;
+	bottom: 215px;
+}
+.punto-central{
+	width: 8px;
+     height: 8px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #fefefe;
+    position: absolute;
+	left: 498px;
+	bottom: 273px;
+}
+.punto-penal-derecho{
+	width: 8px;
+     height: 8px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #fefefe;
+    position: absolute;
+	left: 140px;
+	bottom: 273px;
+}
+.punto-penal-izquierdo{
+	width: 8px;
+     height: 8px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #fefefe;
+    position: absolute;
+	left: 860px;
+	bottom: 273px;
+}
+.chileno{
+	width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: red;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.jugador1{
+	left: 220px;
+	bottom: 273px;
+}
+.jugador2{
+	left: 590px;
+	bottom: 333px;
+}
+.jugador3{
+	left: 800px;
+	bottom: 140px;
+}
